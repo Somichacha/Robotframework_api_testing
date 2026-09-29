@@ -1,0 +1,13 @@
+/.idea
+/.venv
+/AutomationPractice_login.robot
+/Create_new_user.robot
+/log
+/log.html
+/MyKeyword.robot
+/output.xml
+/PageObject_login.robot
+/Report
+/report.html
+/Reports
+/Variables.robot
